@@ -1,6 +1,6 @@
-# Miku Miku Beam 💥⚡ (Network Stresser)
+# AdoDos 💥⚡ (Network Stresser)
 
-A fun and visually appealing stress testing server with a **Miku-themed** frontend, where you can configure and run attacks while enjoying a banger song in the background! 🎤✨
+A fun and visually appealing stress testing server with a **Ado-themed** frontend, where you can configure and run attacks while enjoying a banger song in the background! 🎤✨
 
 ![Screenshot](docs/screenshot.png)
 
@@ -8,7 +8,7 @@ A fun and visually appealing stress testing server with a **Miku-themed** fronte
 
 - 🐳 **Docker Ready**: MMB is ready to be built and run in a Docker container.
 - 🌐 **Real-time Attack Visualization**: View your attack’s progress and statistics in real-time as it runs. 🔥
-- 🎶 **Miku-themed UI**: A cute and vibrant design with Miku’s vibe to make the process more fun. Includes a banger song to keep you pumped! 🎧
+- 🎶 **Ado-themed UI**: A cute and vibrant design with Ado's vibe to make the process more fun. Includes a banger song to keep you pumped! 🎧
 - 🧑‍💻 **Configurable Attack Parameters**: Easily set the attack method, packet size, duration, and packet delay via the frontend interface.
 - 🛠️ **Worker-Based Attack Handling**: The server processes attacks in separate workers for optimal performance and scalability.
 - 📊 **Live Stats**: Track the success and failure of each attack in real-time. See how many packets are sent and whether they succeed or fail.
