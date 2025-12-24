@@ -276,7 +276,7 @@ function App() {
           : "bg-gray-950"
       } p-8 overflow-y-auto ${actuallyAttacking ? "shake" : ""}`}
     >
-      <audio ref={audioRef} src="/audio.mp3" />
+      <audio ref={audioRef} src="/audio.wav" />
 
       <div className="max-w-2xl mx-auto space-y-8">
         <div className="text-center">
@@ -304,7 +304,7 @@ function App() {
           <div
             className="flex justify-center w-full h-48 mb-6"
             style={{
-              backgroundImage: "url('/miku.gif')",
+              backgroundImage: "url('/ado.gif')",
               backgroundRepeat: "no-repeat",
               backgroundPosition: "center",
               backgroundSize: "cover",
