@@ -6,7 +6,7 @@ body {
   width: 100vw;
   height: 100vh;
   overflow-x: hidden;
-  background-color: black;
+  background-color: rgb(13, 0, 59);
 }
 
 .background-pulse {
@@ -19,7 +19,7 @@ body {
     background-color: rgb(3 7 18 / var(--tw-bg-opacity, 1));
   }
   50% {
-    background-color: rgb(48, 15, 31)
+    background-color: rgb(82, 45, 45)
   }
   100% {
     transform: rgb(3 7 18 / var(--tw-bg-opacity, 1));
