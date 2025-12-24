@@ -290,7 +290,7 @@ function App() {
                 : "text-white"
             }`}
           >
-            Because DDoS attacks are also cute and even more so when Ado does
+            Because DDoS attacks are cool and even more so when Ado does
             them.
           </p>
         </div>
@@ -340,7 +340,7 @@ function App() {
                 `}
                 >
                   <Wand2 className="w-5 h-5" />
-                  {isAttacking ? "Stop Beam" : "Start AdoDos"}
+                  {isAttacking ? "Stop Attack" : "Start Attack"}
                 </button>
                 <button
                   onClick={() =>
@@ -535,7 +535,7 @@ function App() {
             </div>
           </div>
 
-          {/* Cute Animation Overlay */}
+          {/* Tuff Animation Overlay */}
           {isAttacking && (
             <div className="absolute inset-0 pointer-events-none">
               <div className="absolute inset-0 bg-gradient-to-r from-pink-500/10 to-blue-500/10 animate-pulse" />
@@ -552,11 +552,11 @@ function App() {
           <span className="text-sm text-center text-gray-500">
             🎵 v1.0 made by{" "}
             <a
-              href="https://github.com/sammwyy/mikumikubeam"
+              href="https://github.com/mishastarrrr-ctrl/AdoDos"
               target="_blank"
               rel="noreferrer"
             >
-              @Sammwy
+              @mishastarrrr-ctrl
             </a>{" "}
             🎵
           </span>

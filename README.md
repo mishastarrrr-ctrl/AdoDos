@@ -8,11 +8,9 @@ A fun and visually appealing stress testing server with a **Ado-themed** fronten
 
 - 🐳 **Docker Ready**: MMB is ready to be built and run in a Docker container.
 - 🌐 **Real-time Attack Visualization**: View your attack’s progress and statistics in real-time as it runs. 🔥
-- 🎶 **Ado-themed UI**: A cute and vibrant design with Ado's vibe to make the process more fun. Includes a banger song to keep you pumped! 🎧
 - 🧑‍💻 **Configurable Attack Parameters**: Easily set the attack method, packet size, duration, and packet delay via the frontend interface.
 - 🛠️ **Worker-Based Attack Handling**: The server processes attacks in separate workers for optimal performance and scalability.
 - 📊 **Live Stats**: Track the success and failure of each attack in real-time. See how many packets are sent and whether they succeed or fail.
-- 🖼️ **Aesthetic Design**: A visually cute interface to make your experience enjoyable. 🌸
 - 📡 **Attack Methods:**:
   - `HTTP Flood` - Send random HTTP requests
   - `HTTP Bypass` - Send HTTP requests that mimics real requests (Redirects, cookies, headers, resources...)
@@ -34,8 +32,8 @@ Make sure you have the following installed:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/sammwyy/mikumikubeam.git
-   cd mikumikubeam
+   git clone https://github.com/mishastarrrr-ctrl/AdoDos.git
+   cd AdoDos
    ```
 
 2. Install the required dependencies:
@@ -64,8 +62,8 @@ Make sure you have the following installed:
 1. Clone the repository and navigate to the project directory:
 
    ```bash
-   git clone https://github.com/sammwyy/mikumikubeam.git
-   cd mikumikubeam
+   git clone https://github.com/mishastarrrr-ctrl/AdoDos.git
+   cd AdoDos
    ```
 
 2. Install the dependencies:
@@ -115,7 +113,7 @@ Once the server is up and running, you can interact with it via the frontend:
 
 ## Adding Proxies and User-Agents
 
-Access to the ``data/proxies.txt`` and ``data/uas.txt`` can now be done fully in the frontend. Click the text button to the right of the beam button to open up the editor.
+Access to the ``data/proxies.txt`` and ``data/uas.txt`` can now be done fully in the frontend. Click the text button to the right of the attack button to open up the editor.
 
 ![AnnotatedImage](docs/annotated-button.png)
 
